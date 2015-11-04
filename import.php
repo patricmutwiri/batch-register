@@ -2,7 +2,7 @@
 /*
  * handle the imports
  * users only
- * 2015 intranet uchumi*/
+ */
 
 class Quick_CSV_import
 {
